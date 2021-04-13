@@ -1,2 +1,3 @@
 git status
 exit
+nem tudom mit írjak ide remélem nem baj.
